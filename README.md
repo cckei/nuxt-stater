@@ -8,6 +8,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 - Static site generation
 - Sass
 - Tailwindcss
+- Pinia (state control)
 
 
 ## Setup
