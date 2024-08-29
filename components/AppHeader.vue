@@ -10,12 +10,12 @@ const route = useRoute();
                 <nav>
                     <ul class="flex gap-4">
                         <li>
-                            <nuxt-link to="/">{{
+                            <nuxt-link :to="localePath('/')">{{
                                 $t("home.heading")
                             }}</nuxt-link>
                         </li>
                         <li>
-                            <nuxt-link to="/about">{{
+                            <nuxt-link :to="localePath('about')">{{
                                 $t("about.heading")
                             }}</nuxt-link>
                         </li>
