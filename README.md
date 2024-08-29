@@ -2,6 +2,14 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+
+## Nuxt project starter with following features:
+- i18n 
+- Static site generation
+- Sass
+- Tailwindcss
+
+
 ## Setup
 
 Make sure to install the dependencies:
@@ -75,8 +83,3 @@ bun run preview
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
 
-## Nuxt project starter with following features:
-- i18n 
-- Static site generation
-- Sass
-- Tailwindcss
