@@ -9,6 +9,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 - Sass
 - Tailwindcss
 - Pinia (state control)
+- SEO meta ready
 
 
 ## Setup

@@ -1,4 +1,14 @@
 {
     "welcome": "你好",
-    "hello": "你好"
+    "hello": "你好",
+    "home": {
+        "heading": "首頁",
+        "title": "首頁",
+        "description": "首頁 description"
+    },
+    "about": {
+        "heading": "關於我們",
+        "title": "關於我們",
+        "description": "關於我們 description"
+    }
 }

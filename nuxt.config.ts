@@ -13,11 +13,13 @@ export default defineNuxtConfig({
     locales: [{
       code: 'en',
       language: 'en-US',
-      file: 'en.json'
+      file: 'en.json',
+      name: 'English'
     }, {
       code: 'tc',
       language: 'zh-HK',
-      file: 'tc.json'
+      file: 'tc.json',
+      name: '繁體中文'
     }],
     lazy: true,
     langDir: 'lang',

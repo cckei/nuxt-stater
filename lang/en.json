@@ -1,4 +1,14 @@
 {
     "welcome": "Welcome",
-    "hello": "Hello"
+    "hello": "Hello",
+    "home": {
+        "heading": "Home",
+        "title": "Home",
+        "description": "Home description"
+    },
+    "about": {
+        "heading": "About Us",
+        "title": "About",
+        "description": "About description"
+    }
 }
